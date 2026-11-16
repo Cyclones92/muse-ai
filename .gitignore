@@ -1,0 +1,22 @@
+# Secrets — never commit these to a public repo
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+credentials*
+*secret*
+*.p12
+*.pfx
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*~
+
+# Drafts that haven't been sanitized yet
+drafts/private-*
+*.private.md
