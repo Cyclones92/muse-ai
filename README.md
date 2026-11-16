@@ -36,6 +36,7 @@ New topic? New folder under `guides/`. One topic, one folder, no mercy for clutt
 |-------|----------|---------------|
 | [Build Specs: Everything We're Working On + Usage](guides/muse-ai/build-specs-everything-were-working-on-and-usage.md) | Muse / AI 🤖 | Two Space blueprints — a static snapshot dashboard + a fullstack usage tracker, with paste-ready Prompts A & B |
 | [Build Specs: All My Spaces + Daily Posts](guides/muse-ai/build-specs-all-my-spaces-and-daily-posts.md) | Muse / AI 🤖 | Two more blueprints — a hub where every card opens in a new tab, and a digest ledger that embeds HTML *inside* the Space, with paste-ready Prompts C & D |
+| [How to Build Wonton Work](guides/muse-ai/howto-wonton-work.md) | Muse / AI 🤖 | Run a crew of dumpling bot jobs — Instructions / Memory / Skills, a shared Skill library, draft → Deploy, and one numbered list per run, with paste-ready Prompt E 🥟 |
 | [How to set up SSH key login](guides/linux/ssh-key-login.example.md) | Linux 🐧 | Ditch the password, keep the keys — a quick example guide in the house format |
 
 ## ✍️ Writing a guide?
